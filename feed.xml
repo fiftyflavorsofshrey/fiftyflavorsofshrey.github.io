@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Fifty Flavors of Shrey</title>
-        <description>A Paraphernelia of Cuisines</description>
-        <link>https://fiftyflavorsofshrey.github.io/</link>
-        <atom:link href="https://fiftyflavorsofshrey.github.io/feed.xml" rel="self"
+        <description></description>
+        <link>/</link>
+        <atom:link href="/feed.xml" rel="self"
         type="application/rss+xml"/>
-        <pubDate>Mon, 08 Apr 2019 18:16:15 +0200</pubDate>
-        <lastBuildDate>Mon, 08 Apr 2019 18:16:15 +0200</lastBuildDate>
+        <pubDate>Mon, 08 Apr 2019 18:25:36 +0200</pubDate>
+        <lastBuildDate>Mon, 08 Apr 2019 18:25:36 +0200</lastBuildDate>
         <generator>Jekyll v3.8.5</generator>
         
         <item>
@@ -25,8 +25,8 @@
 &lt;p&gt;Aliquam suscipit fermentum mauris a accumsan. In facilisis, mauris quis pulvinar tempus, turpis sapien sodales nibh, nec feugiat augue est quis nisi. Fusce eget odio feugiat, luctus quam et, dapibus nulla. Sed ornare lacus non libero lacinia pretium. In eu dui vitae purus euismod feugiat ac ac est. Morbi vitae pretium lorem, non eleifend felis. Nullam at massa feugiat, rutrum elit at, semper lacus. Etiam vel rutrum felis. Nullam quis auctor lorem, et tempor arcu.&lt;/p&gt;
 </description>
             <pubDate>Sat, 25 Apr 2015 14:12:12 +0200</pubDate>
-            <link>https://fiftyflavorsofshrey.github.io#/2015/04/25/workshop.html</link>
-            <guid isPermaLink="true">https://fiftyflavorsofshrey.github.io#/2015/04/25/workshop.html</guid>
+            <link>#/2015/04/25/workshop.html</link>
+            <guid isPermaLink="true">#/2015/04/25/workshop.html</guid>
             
             
         </item>
@@ -46,8 +46,8 @@
 &lt;p&gt;Aliquam suscipit fermentum mauris a accumsan. In facilisis, mauris quis pulvinar tempus, turpis sapien sodales nibh, nec feugiat augue est quis nisi. Fusce eget odio feugiat, luctus quam et, dapibus nulla. Sed ornare lacus non libero lacinia pretium. In eu dui vitae purus euismod feugiat ac ac est. Morbi vitae pretium lorem, non eleifend felis. Nullam at massa feugiat, rutrum elit at, semper lacus. Etiam vel rutrum felis. Nullam quis auctor lorem, et tempor arcu.&lt;/p&gt;
 </description>
             <pubDate>Fri, 24 Apr 2015 14:12:12 +0200</pubDate>
-            <link>https://fiftyflavorsofshrey.github.io#/2015/04/24/i-scream.html</link>
-            <guid isPermaLink="true">https://fiftyflavorsofshrey.github.io#/2015/04/24/i-scream.html</guid>
+            <link>#/2015/04/24/i-scream.html</link>
+            <guid isPermaLink="true">#/2015/04/24/i-scream.html</guid>
             
             
         </item>
@@ -67,8 +67,8 @@
 &lt;p&gt;Aliquam suscipit fermentum mauris a accumsan. In facilisis, mauris quis pulvinar tempus, turpis sapien sodales nibh, nec feugiat augue est quis nisi. Fusce eget odio feugiat, luctus quam et, dapibus nulla. Sed ornare lacus non libero lacinia pretium. In eu dui vitae purus euismod feugiat ac ac est. Morbi vitae pretium lorem, non eleifend felis. Nullam at massa feugiat, rutrum elit at, semper lacus. Etiam vel rutrum felis. Nullam quis auctor lorem, et tempor arcu.&lt;/p&gt;
 </description>
             <pubDate>Thu, 23 Apr 2015 14:12:12 +0200</pubDate>
-            <link>https://fiftyflavorsofshrey.github.io#/2015/04/23/night-sky.html</link>
-            <guid isPermaLink="true">https://fiftyflavorsofshrey.github.io#/2015/04/23/night-sky.html</guid>
+            <link>#/2015/04/23/night-sky.html</link>
+            <guid isPermaLink="true">#/2015/04/23/night-sky.html</guid>
             
             
         </item>
@@ -88,8 +88,8 @@
 &lt;p&gt;Aliquam suscipit fermentum mauris a accumsan. In facilisis, mauris quis pulvinar tempus, turpis sapien sodales nibh, nec feugiat augue est quis nisi. Fusce eget odio feugiat, luctus quam et, dapibus nulla. Sed ornare lacus non libero lacinia pretium. In eu dui vitae purus euismod feugiat ac ac est. Morbi vitae pretium lorem, non eleifend felis. Nullam at massa feugiat, rutrum elit at, semper lacus. Etiam vel rutrum felis. Nullam quis auctor lorem, et tempor arcu.&lt;/p&gt;
 </description>
             <pubDate>Wed, 22 Apr 2015 14:12:12 +0200</pubDate>
-            <link>https://fiftyflavorsofshrey.github.io#/2015/04/22/what-time.html</link>
-            <guid isPermaLink="true">https://fiftyflavorsofshrey.github.io#/2015/04/22/what-time.html</guid>
+            <link>#/2015/04/22/what-time.html</link>
+            <guid isPermaLink="true">#/2015/04/22/what-time.html</guid>
             
             
         </item>
@@ -109,8 +109,8 @@
 &lt;p&gt;Aliquam suscipit fermentum mauris a accumsan. In facilisis, mauris quis pulvinar tempus, turpis sapien sodales nibh, nec feugiat augue est quis nisi. Fusce eget odio feugiat, luctus quam et, dapibus nulla. Sed ornare lacus non libero lacinia pretium. In eu dui vitae purus euismod feugiat ac ac est. Morbi vitae pretium lorem, non eleifend felis. Nullam at massa feugiat, rutrum elit at, semper lacus. Etiam vel rutrum felis. Nullam quis auctor lorem, et tempor arcu.&lt;/p&gt;
 </description>
             <pubDate>Tue, 21 Apr 2015 14:12:12 +0200</pubDate>
-            <link>https://fiftyflavorsofshrey.github.io#/2015/04/21/city-nights.html</link>
-            <guid isPermaLink="true">https://fiftyflavorsofshrey.github.io#/2015/04/21/city-nights.html</guid>
+            <link>#/2015/04/21/city-nights.html</link>
+            <guid isPermaLink="true">#/2015/04/21/city-nights.html</guid>
             
             
         </item>
@@ -130,8 +130,8 @@
 &lt;p&gt;Aliquam suscipit fermentum mauris a accumsan. In facilisis, mauris quis pulvinar tempus, turpis sapien sodales nibh, nec feugiat augue est quis nisi. Fusce eget odio feugiat, luctus quam et, dapibus nulla. Sed ornare lacus non libero lacinia pretium. In eu dui vitae purus euismod feugiat ac ac est. Morbi vitae pretium lorem, non eleifend felis. Nullam at massa feugiat, rutrum elit at, semper lacus. Etiam vel rutrum felis. Nullam quis auctor lorem, et tempor arcu.&lt;/p&gt;
 </description>
             <pubDate>Mon, 20 Apr 2015 14:12:12 +0200</pubDate>
-            <link>https://fiftyflavorsofshrey.github.io#/2015/04/20/planes.html</link>
-            <guid isPermaLink="true">https://fiftyflavorsofshrey.github.io#/2015/04/20/planes.html</guid>
+            <link>#/2015/04/20/planes.html</link>
+            <guid isPermaLink="true">#/2015/04/20/planes.html</guid>
             
             
         </item>
